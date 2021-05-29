@@ -8,7 +8,7 @@ I currently own **[Hunter Bot](https://github.com/3STEB4N28/Hunter-Bot)** a mult
 
 ### 📫 How to reach out to me:
 
-- Contact me on [Discord](https://discord.com/users/)
+- Contact me on [Discord](https://discord.com/users/701292425624420362)
 
 <!--
 **3STEB4N28/3STEB4N28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
