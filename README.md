@@ -4,7 +4,7 @@ A 14-year old developer from El Salvador, currently living in New York.
 
 ### Projects
 
-I currently own **[Hunter Bot](https://github.com/3STEB4N28/Hunter-Bot)** a multipurpose Discord Bot, a **[website](https://3steb4n28.xyz)** and currently working on 2 new bots, Ryder and XLR9!
+I currently own **[Hunter Bot](https://github.com/3STEB4N28/Hunter-Bot)** a multipurpose Discord Bot, a **[website](https://3steb4n28.xyz)**, a [npm package](https://npmjs.org/discord-vr) and currently working on 2 new bots, Ryder and XLR9!
 
 ### 📫 How to reach out to me:
 
