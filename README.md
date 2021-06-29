@@ -1,4 +1,4 @@
-### Hi there 👋, it's me 3STEB4N28
+### Hi there 👋, it's me 3STEB4N
 
 A 14-year old developer from El Salvador 🇸🇻, currently living in New York, USA🇺🇸.
 
