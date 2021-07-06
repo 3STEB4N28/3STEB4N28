@@ -2,8 +2,6 @@
 
 A 14-year old developer from El Salvador 🇸🇻, currently living in New York, USA🇺🇸.
 
-[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/s6zr65okq0cvy1mq7klw23pfo)
-
 ### Projects
 
 I currently own **[Hunter Bot](https://github.com/3STEB4N28/Hunter-Bot)** a multipurpose Discord Bot, a **[website](https://3steb4n28.xyz)**, and a [npm package](https://npmjs.org/discord-vr)!
