@@ -38,6 +38,9 @@ I currently own **[Hunter Bot](https://github.com/3STEB4N28/Hunter-Bot)** a mult
 
 - Contact me on [Discord](https://discord.com/users/701292425624420362) (3STEB4N28#2621)
 
+---
+### Stats for nerds
+
 ![](https://github-readme-stats.vercel.app/api?username=3STEB4N28&theme=radical)
 <!--
 **3STEB4N28/3STEB4N28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
