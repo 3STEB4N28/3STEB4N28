@@ -41,7 +41,10 @@ I currently own **[Hunter Bot](https://github.com/3STEB4N28/Hunter-Bot)** a mult
 ---
 ### Stats for nerds
 
-![](https://github-readme-stats.vercel.app/api?username=3STEB4N28&theme=radical)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=3STEB4N28&repo=Hunter-Bot)](https://github.com/3STEB4N28/Hunter-Bot)
+![](https://github-readme-stats.vercel.app/api?username=3STEB4N28&theme=radical)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=3STEB4N28&repo=Hunter-Bot)](https://github.com/3STEB4N28/Hunter-Bot)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3STEB4N28)](https://github.com/3STEB4N28/Hunter-Bot)
+
 
 <!--
 **3STEB4N28/3STEB4N28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
