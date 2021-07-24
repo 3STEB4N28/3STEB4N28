@@ -1,12 +1,12 @@
 ### Hi there 👋, it's me 3STEB4N
 
-A 14-year old developer from El Salvador 🇸🇻, currently living in New York, USA🇺🇸.
+A 14-year old back-end developer from El Salvador 🇸🇻, currently living in New York, USA🇺🇸.
 
 ---
 
 ### Projects
 
-I currently own **[Hunter Bot](https://github.com/3STEB4N28/Hunter-Bot)** a multipurpose Discord Bot, a **[website](https://3steb4n28.xyz)**, and a [npm package](https://npmjs.org/discord-vr)!
+I currently own **[Hunter Bot](https://github.com/3STEB4N28/Hunter-Bot)** a multipurpose Discord Bot, a **[website](https://3steb4n28.xyz)**, and 2 NodeJS Modules ([1](https://npmjs.org/Berk-api.js), [2](https://npmjs.org/Zly.js))!
 
 ---
 
