@@ -38,6 +38,8 @@ I currently own **[Hunter Bot](https://github.com/3STEB4N28/Hunter-Bot)** a mult
 
 - Contact me on [Discord](https://discord.com/users/701292425624420362) (3STEB4N28#2621)
 
+![](https://discord.c99.nl/widget/theme-3/701292425624420362.png)
+
 ---
 ### Stats for nerds
 
