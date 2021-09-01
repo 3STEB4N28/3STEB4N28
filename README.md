@@ -6,7 +6,7 @@ A 14-year old back-end developer from El Salvador 🇸🇻, currently living in 
 
 ### Projects
 
-I currently own **[Hunter Bot](https://github.com/3STEB4N28/Hunter-Bot)** a multipurpose Discord Bot, a **[website](https://3steb4n28.xyz)**, and 2 NodeJS Modules ([1](https://npmjs.org/Berk-api.js), [2](https://npmjs.org/Zly.js))!
+I currently own **[Hunter Bot](https://github.com/3STEB4N28/Hunter-Bot)** a multipurpose Discord Bot, a **[website](https://3steb4n28.xyz)**, and 2 NodeJS Modules ([1](https://npmjs.org/berk-api.js), [2](https://npmjs.org/zly.js))!
 
 ---
 
