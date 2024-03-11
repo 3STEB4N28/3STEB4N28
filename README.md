@@ -1,6 +1,6 @@
 ### Hi there 👋, it's me 3STEB4N
 
-A back-end developer from El Salvador, currently living in New York, US.
+Junior Dev 
 
 ---
 
